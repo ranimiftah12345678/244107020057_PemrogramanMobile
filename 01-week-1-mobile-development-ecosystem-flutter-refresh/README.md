@@ -2,7 +2,7 @@
 
 ## Identitas
 
-- **Nama:** [Rani Miftahus Saadah]
+- **Nama:** Rani Miftahus Saadah
 - **NIM:** 244107020057
 - **Mata Kuliah:** Pemrograman Mobile
 - **Minggu:** 1
